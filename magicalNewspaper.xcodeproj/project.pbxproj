@@ -13,6 +13,7 @@
 		92067B4D21E9AB0800F3E021 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92067B4B21E9AB0800F3E021 /* Main.storyboard */; };
 		92067B4F21E9AB0A00F3E021 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 92067B4E21E9AB0A00F3E021 /* Assets.xcassets */; };
 		92067B5221E9AB0A00F3E021 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92067B5021E9AB0A00F3E021 /* LaunchScreen.storyboard */; };
+		92067B5A21E9AB4A00F3E021 /* harrypotter.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 92067B5921E9AB4A00F3E021 /* harrypotter.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		92067B4E21E9AB0A00F3E021 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		92067B5121E9AB0A00F3E021 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		92067B5321E9AB0A00F3E021 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		92067B5921E9AB4A00F3E021 /* harrypotter.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = harrypotter.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,8 +59,9 @@
 			isa = PBXGroup;
 			children = (
 				92067B4521E9AB0800F3E021 /* AppDelegate.swift */,
-				92067B4721E9AB0800F3E021 /* art.scnassets */,
 				92067B4921E9AB0800F3E021 /* ViewController.swift */,
+				92067B5921E9AB4A00F3E021 /* harrypotter.mp4 */,
+				92067B4721E9AB0800F3E021 /* art.scnassets */,
 				92067B4B21E9AB0800F3E021 /* Main.storyboard */,
 				92067B4E21E9AB0A00F3E021 /* Assets.xcassets */,
 				92067B5021E9AB0A00F3E021 /* LaunchScreen.storyboard */,
@@ -127,6 +130,7 @@
 			files = (
 				92067B4821E9AB0800F3E021 /* art.scnassets in Resources */,
 				92067B5221E9AB0A00F3E021 /* LaunchScreen.storyboard in Resources */,
+				92067B5A21E9AB4A00F3E021 /* harrypotter.mp4 in Resources */,
 				92067B4F21E9AB0A00F3E021 /* Assets.xcassets in Resources */,
 				92067B4D21E9AB0800F3E021 /* Main.storyboard in Resources */,
 			);
